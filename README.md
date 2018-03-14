@@ -5,6 +5,7 @@ egnup is a simple NIF/gen_server based binding to gnuplot 4.4 for unix platforms
 
 Notes
 -----
+* Targeting **Say Sila** project on gnuplot 5
 * It's pretty minimal right now. Hold out please.
 
 Quick Start
